@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Punebizz/static/css/main.f855e6bc.css",
+    "main.js": "/Punebizz/static/js/main.9301dea8.js",
+    "static/js/787.c8c10d0a.chunk.js": "/Punebizz/static/js/787.c8c10d0a.chunk.js",
+    "static/media/icon.png": "/Punebizz/static/media/icon.a844abd7943179f2eeac.png",
+    "static/media/main logo.png": "/Punebizz/static/media/main logo.e5abc4bda166b3f51723.png",
+    "static/media/Punebizz.png": "/Punebizz/static/media/Punebizz.5c9ba39e47483b82d148.png",
+    "static/media/graph.jpeg": "/Punebizz/static/media/graph.988a144ecb74306020be.jpeg",
+    "index.html": "/Punebizz/index.html",
+    "static/media/Group.svg": "/Punebizz/static/media/Group.1cc5afc719c8ed4908786d50428c008b.svg",
+    "static/media/Image.svg": "/Punebizz/static/media/Image.96b338b0ad410ae2ffa755bed4695cae.svg",
+    "main.f855e6bc.css.map": "/Punebizz/static/css/main.f855e6bc.css.map",
+    "main.9301dea8.js.map": "/Punebizz/static/js/main.9301dea8.js.map",
+    "787.c8c10d0a.chunk.js.map": "/Punebizz/static/js/787.c8c10d0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9301dea8.js"
+  ]
+}
